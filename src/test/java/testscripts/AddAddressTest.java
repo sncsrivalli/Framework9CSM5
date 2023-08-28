@@ -6,7 +6,7 @@ import org.testng.Assert;
 import org.testng.annotations.Test;
 
 import genericLibraries.BaseClass;
-
+// This test verifies if user is able to add address
 public class AddAddressTest extends BaseClass {
 
 	@Test
